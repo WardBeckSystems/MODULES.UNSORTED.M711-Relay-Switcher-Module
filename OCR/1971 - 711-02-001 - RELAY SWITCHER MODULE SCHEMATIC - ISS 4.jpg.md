@@ -34,7 +34,7 @@ Wide schematic of a relay switcher module with many relays, title block small at
 - **Words (OCR):** 46 in 45 lines: NOTES: · NOTE · NOTE · UNLESS SPECIFIED · VELUE ND DIODES ARE IN4OO} · RIS <r14 · RI7 <RI8 · Rzi <r22 · REFER · DwG · 1-127O · FOR
 - **Wiring (first pass):** 83 connected wire groups from 871 runs; labelled ends: 1151 mm → CR3A, CR39, CR3;, Ez8; 722 mm → PELAY SWITCHER MODULE, SCHEMATIC, 02-001; 200 mm → RIS <r14, Rzi <r22, RI7 <RI8; 155 mm → RIS <r14, RI7 <RI8, Rzi <r22; 113 mm → CRis, CRZO, CRI6
 
-Every curve, box, word and wire group: [1971 - 711-02-001 - RELAY SWITCHER MODULE SCHEMATIC - ISS 4 (traced).json](../SCHEMATICS/1971%20-%20711-02-001%20-%20RELAY%20SWITCHER%20MODULE%20SCHEMATIC%20-%20ISS%204%20(traced).json) (the CAD file: `1971 - 711-02-001 - RELAY SWITCHER MODULE SCHEMATIC - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [1971 - 711-02-001 - RELAY SWITCHER MODULE SCHEMATIC - ISS 4 (traced).json](../SCHEMATICS/1971%20-%20711-02-001%20-%20RELAY%20SWITCHER%20MODULE%20SCHEMATIC%20-%20ISS%204%20%28traced%29.json) (the CAD file: `1971 - 711-02-001 - RELAY SWITCHER MODULE SCHEMATIC - ISS 4 (traced).dxf`).
 
 ## Full text
 
