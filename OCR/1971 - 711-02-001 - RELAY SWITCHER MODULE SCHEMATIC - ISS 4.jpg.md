@@ -1,5 +1,5 @@
 # 1971 - 711-02-001 - RELAY SWITCHER MODULE SCHEMATIC - ISS 4.jpg
-Wiki page: [M711](../../../../PAGES/M711.md)
+Wiki page: [M711](../)
 
 
 - **Year:** 1971 (title block date)

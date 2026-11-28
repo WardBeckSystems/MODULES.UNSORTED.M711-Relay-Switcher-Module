@@ -1,6 +1,6 @@
 # M711 Relay Switcher Module · Communication
 
-Ward-Beck Systems M711, 1971|4. Wiki page: [M711 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M711.html)
+Ward-Beck Systems M711, 1971|4. Wiki page: [M711 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M711-Relay-Switcher-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
